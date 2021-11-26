@@ -52,6 +52,4 @@ if __name__ == '__main__':
     rates = get_rates
     directories = get_directories
     pass
-
-
     
